@@ -28,6 +28,8 @@ const sidebars = {
     },
   ],
    */
-};
+sidebar: [
+    "intro",
+    {
 
 export default sidebars;
