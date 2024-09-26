@@ -16,7 +16,8 @@ Apocalyptic Wonderland is a Wabbajack list for Tale of Two Wastelands that aims 
 
 ## Requirements
 
-:::tip The Epic Games, Game Pass and Microsoft Store versions are unsupported.
+:::danger Incompatible Versions 
+The Epic Games, Game Pass and Microsoft Store versions are unsupported.
 :::
 
 - A legally purchased copy of Fallout 3 from either [Steam](https://store.steampowered.com/app/22900/Fallout_3/), [GOG](https://www.gog.com/game/fallout_3) or [Epic Games](https://www.epicgames.com/store/en-US/p/fallout-3). (Epic Games users have some extra steps and some steps deviate from all other versions, but the guide will clearly state when those steps are needed)
